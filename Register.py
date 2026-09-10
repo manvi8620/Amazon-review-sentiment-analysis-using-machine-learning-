@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter 
 from tkinter import messagebox
 import re
 import sqlite3
